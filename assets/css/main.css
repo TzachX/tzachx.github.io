@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: 'BitPotion'; /*a name to be used later*/
-    src: url("../webfonts/BitPotion/BitPotion.ttf"); /*URL to font*/
+    src: url("../webfonts/Stepalange-x3BLm.otf"); /*URL to font*/
 }
 
 html, body, div, span, applet, object,
@@ -178,6 +178,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+		letter-spacing: 0.1rem;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -185,7 +186,7 @@ input, select, textarea {
 		font-weight: 600;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
-		letter-spacing: 0.2rem;
+		letter-spacing: 0.3rem;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
